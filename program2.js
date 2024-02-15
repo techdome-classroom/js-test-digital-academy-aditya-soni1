@@ -24,7 +24,7 @@ var romanToInt = function(s) {
     }
     else
     {
-        
+        result+=currentValues
     }
   }
 };
