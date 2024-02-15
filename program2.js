@@ -26,7 +26,7 @@ var romanToInt = function(s) {
     {
         result+=currentValues
     }
-    prevValue
+    prevValue = currentValues
   }
 };
 
