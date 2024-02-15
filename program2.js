@@ -13,10 +13,8 @@ var romanToInt = function(s) {
     D:500,
     M:1000
   }  
-  for(i=0;i<s.length;i++)
-  {
-    
-  }
+  let result = 0
+  let prev
 };
 
 
