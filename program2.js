@@ -14,7 +14,7 @@ var romanToInt = function(s) {
     M:1000
   }  
   let result = 0
-  let prev
+  let preValue= 0
 };
 
 
