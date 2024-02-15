@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    if
+    if(s===())
 };
 
 module.exports = { isValid };
