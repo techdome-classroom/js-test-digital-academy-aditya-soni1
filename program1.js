@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 var isValid = function(s) {
-    if()
+    if(s==='('||s===')'||s==='{'||s===)
     {
        
     }
