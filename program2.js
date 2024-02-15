@@ -15,7 +15,7 @@ var romanToInt = function(s) {
   }  
   let result = 0
   let prevValue= 0
-  for(i=s.length;i<=0;i--)
+  for(i=s.length-1;i<=0;i--)
   {
     const currentValues = romanValues[s[i]]
     if (currentValues<prevValue)
