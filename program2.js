@@ -15,9 +15,9 @@ var romanToInt = function(s) {
   }  
   let result = 0
   let preValue= 0
-  for(i=0;i<s.length;i++)
+  for(i=s.length;i<;i++)
   {
-    
+
   }
 };
 
