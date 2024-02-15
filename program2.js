@@ -20,7 +20,7 @@ var romanToInt = function(s) {
     const currentValues = romanValues[s[i]]
     if (currentValues<prevValue)
     {
-        
+        result -=currentValues
     }
   }
 };
