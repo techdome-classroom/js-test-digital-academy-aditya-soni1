@@ -5,7 +5,7 @@
 var isValid = function(s) {
     if(s!='('||s!=')'||s!='{'||s!='}'||s!='['||s!=']')
     {
-       return isValid
+       return 
     }
 };
 
